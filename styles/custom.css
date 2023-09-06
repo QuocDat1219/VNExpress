@@ -2,6 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+/* CSS cho dropdown container */
+.dropdown-container {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.75s ease-in-out; /* Thời gian và kiểu chuyển động có thể thay đổi */
+}
+
+/* CSS cho dropdown container mở */
+.dropdown-container.open {
+  max-height: 100vh; /* Hoặc một giá trị đủ lớn để hiển thị toàn bộ nội dung dropdown */
+}
+
 ol {
   list-style: decimal;
 }

@@ -1,0 +1,141 @@
+[
+    {
+      "id": 1,
+      "title": "Thời sự",
+      "newcategory": [
+        {
+          "id": 1,
+          "title": "Chính trị"
+        },
+        {
+          "id": 2,
+          "title": "Dân sinh"
+        },
+        {
+          "id": 3,
+          "title": "Lao động - Việc làm"
+        },
+        {
+          "id": 4,
+          "title": "Giao thông"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Góc nhìn",
+      "newcategory": [
+        {
+          "id": 1,
+          "title": "Chính trị"
+        },
+        {
+          "id": 2,
+          "title": "Dân sinh"
+        },
+        {
+          "id": 3,
+          "title": "Lao động - Việc làm"
+        },
+        {
+          "id": 4,
+          "title": "Giao thông"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Thế giới",
+      "newcategory": [
+        {
+          "id": 1,
+          "title": "Chính trị"
+        },
+        {
+          "id": 2,
+          "title": "Dân sinh"
+        },
+        {
+          "id": 3,
+          "title": "Lao động - Việc làm"
+        },
+        {
+          "id": 4,
+          "title": "Giao thông"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Video",
+      "newcategory": [
+        {
+          "id": 1,
+          "title": "Chính trị"
+        },
+        {
+          "id": 2,
+          "title": "Dân sinh"
+        },
+        {
+          "id": 3,
+          "title": "Lao động - Việc làm"
+        },
+        {
+          "id": 4,
+          "title": "Giao thông"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Podcasts",
+      "newcategory": [
+        {
+          "id": 1,
+          "title": "Chính trị"
+        },
+        {
+          "id": 2,
+          "title": "Dân sinh"
+        },
+        {
+          "id": 3,
+          "title": "Lao động - Việc làm"
+        },
+        {
+          "id": 4,
+          "title": "Giao thông"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Kinh doanh",
+      "newcategory": [
+        {
+          "id": 1,
+          "title": "Chính trị"
+        },
+        {
+          "id": 2,
+          "title": "Dân sinh"
+        },
+        {
+          "id": 3,
+          "title": "Lao động - Việc làm"
+        },
+        {
+          "id": 4,
+          "title": "Giao thông"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Bất động sản",
+      "newcategory": [
+       
+      ]
+    }
+]

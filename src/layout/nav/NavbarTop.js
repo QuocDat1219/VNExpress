@@ -68,7 +68,7 @@ const NavBarTop = () => {
         <div className="max-w-screen-2xl mx-auto px-2 lg:w-10/12">
           <div className="text-gray-700 font-sans text-xs font-base border-b flex justify-between items-center">
             <div className="flex items-center">
-              <div className="flex align-left items-start">
+              <div className="flex align-left ml-2 items-start">
                 <button className="block lg:hidden md:mx-auto sm:mx-auto">
                   <TbListSearch
                     size={25}

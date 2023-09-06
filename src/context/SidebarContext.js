@@ -11,6 +11,7 @@ export const SidebarProvider = ({ children }) => {
   const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(false);
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
   const toggleCartDrawer = () => setCartDrawerOpen(!cartDrawerOpen);
   const closeCartDrawer = () => setCartDrawerOpen(false);
@@ -31,8 +32,14 @@ export const SidebarProvider = ({ children }) => {
     setCurrentPage(p);
   };
 
+  const closeSidebar = () => setIsSidebarOpen(false);
+  const toggleSidebar = () => setIsSidebarOpen(!isSidebarOpen);
+
   const value = useMemo(
     () => ({
+      isSidebarOpen,
+      toggleSidebar,
+      closeSidebar,
       cartDrawerOpen,
       toggleCartDrawer,
       closeCartDrawer,

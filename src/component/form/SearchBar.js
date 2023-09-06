@@ -3,7 +3,7 @@ import React, { useState } from "react";
 const SearchBar = () => {
   const [searchText, setSearchText] = useState("");
   return (
-    <form className="max-w-sm px-4 p-3">
+    <form className="mx-auto px-4 p-3">
       <div className="relative">
         <svg
           xmlns="http://www.w3.org/2000/svg"
